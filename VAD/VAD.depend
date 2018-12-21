@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541703892 source:g:\desktop\projects\c++\vad\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<thread>
+

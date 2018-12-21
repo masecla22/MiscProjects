@@ -1,0 +1,5 @@
+start cmd.exe
+delay 3000
+start regedit
+sdelay 2
+start cmd.exe

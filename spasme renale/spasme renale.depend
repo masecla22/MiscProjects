@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538076758 source:g:\desktop\projects\c++\spasme renale\main.cpp
+	<iostream>
+	<mattcore.h>
+	<graphics.h>
+	<vector>
+	<cmath>
+	<random>
+

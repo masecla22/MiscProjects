@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537107858 source:g:\desktop\projects\c++\proiect1\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<cmath>
+	<ctime>
+

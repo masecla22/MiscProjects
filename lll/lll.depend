@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525533104 source:c:\users\megatron\desktop\my projects\lll\main.cpp
+	<cstdlib>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<limits>
+
+1525529648 source:g:\desktop\olddesktop\my projects\c++\lll\main.cpp
+	<iostream>
+

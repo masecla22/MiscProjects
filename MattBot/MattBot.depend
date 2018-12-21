@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504363594 source:c:\users\megatron\desktop\mattbot\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

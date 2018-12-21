@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528901483 source:c:\users\megatron\desktop\my projects\c++\bubu\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

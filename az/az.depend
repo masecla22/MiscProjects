@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537109764 source:g:\desktop\projects\c++\az\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+

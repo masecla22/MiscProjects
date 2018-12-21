@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514059485 source:c:\users\megatron\desktop\my projects\nospace\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+

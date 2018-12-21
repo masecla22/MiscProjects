@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1520967568 source:c:\users\super\desktop\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	<mattcore.h>
+	<math.h>
+
+1521100986 source:f:\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	"mattcore.h"
+	<math.h>
+
+1521010984 f:\ballcoll\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+
+1521101494 source:f:\mattia\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	"mattcore.h"
+	<math.h>
+
+1521010984 f:\mattia\ballcoll\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+
+1521112622 source:g:\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	"mattcore.h"
+	<math.h>
+
+1521010984 g:\ballcoll\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+
+1525552940 source:h:\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	"mattcore.h"
+	<math.h>
+
+1521010984 h:\ballcoll\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+
+1544370599 source:g:\desktop\olddesktop\my projects\c++\ballcoll\main.cpp
+	<graphics.h>
+	<conio.h>
+	"mattcore.h"
+	<math.h>
+
+1521007384 g:\desktop\olddesktop\my projects\c++\ballcoll\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+

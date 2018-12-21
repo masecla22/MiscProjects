@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513275531 source:c:\users\megatron\desktop\my projects\popo\main.cpp
+	<windows.h>
+	<shlwapi.h>
+	<stdio.h>
+	<iostream>
+

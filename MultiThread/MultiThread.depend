@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1534026600 source:g:\desktop\projects\c++\multithread\main.cpp
+	<iostream>
+	<thread>
+	"classes.h"
+	"functions.h"
+
+1534025446 g:\desktop\projects\c++\multithread\classes.h
+	<mattcore.h>
+	"functions.h"
+	"globals.h"
+
+1534026611 g:\desktop\projects\c++\multithread\functions.h
+	"globals.h"
+	"classes.h"
+
+1534025275 g:\desktop\projects\c++\multithread\globals.h
+

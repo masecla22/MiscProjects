@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537010189 source:g:\desktop\projects\c++\aaaaaaaaaa\main.cpp
+	<iostream>
+	<mattcore.h>
+

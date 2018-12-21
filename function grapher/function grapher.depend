@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526627855 source:c:\users\megatron\desktop\my projects\function grapher\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+
+1544371165 source:g:\desktop\olddesktop\my projects\c++\function grapher\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+

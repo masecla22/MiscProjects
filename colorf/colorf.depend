@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506170463 source:c:\users\megatron\desktop\colorf\main.cpp
+	<iostream>
+	<windows.h>
+

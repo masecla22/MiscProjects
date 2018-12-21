@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1506171793 source:c:\users\megatron\desktop\auxno\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<conio.h>
+

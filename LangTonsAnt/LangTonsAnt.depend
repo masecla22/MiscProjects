@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1529244774 source:c:\users\megatron\desktop\my projects\c++\langtonsant\main.cpp
+	"taw.h"
+	<mattmark.h>
+	<ctime>
+
+1529251739 c:\users\megatron\desktop\my projects\c++\langtonsant\taw.h
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<mattcore.h>
+	<vector>
+
+1529241174 source:g:\desktop\olddesktop\my projects\c++\langtonsant\main.cpp
+	"taw.h"
+	<mattmark.h>
+	<ctime>
+
+1544370228 g:\desktop\olddesktop\my projects\c++\langtonsant\taw.h
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<mattcore.h>
+	<vector>
+

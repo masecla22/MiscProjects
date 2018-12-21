@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527746796 source:g:\desktop\olddesktop\my projects\c++\cursorfinder\main.cpp
+	<iostream>
+	<windows.h>
+	<mattcore.h>
+

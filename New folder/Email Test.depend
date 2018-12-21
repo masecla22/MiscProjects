@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1483606889 source:c:\users\mattia\desktop\my projects\email test\main.cpp
+	"includer.h"
+
+1483600779 c:\users\mattia\desktop\my projects\email test\includer.h
+	"graph_functs.h"
+	"database_functs.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+
+1483602215 c:\users\mattia\desktop\my projects\email test\graph_functs.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"file_functs.h"
+	"math_functs.h"
+
+1483600985 c:\users\mattia\desktop\my projects\email test\file_functs.h
+	<fstream>
+	<iostream>
+
+1483601298 c:\users\mattia\desktop\my projects\email test\math_functs.h
+	<iostream>
+	<cstring>
+
+1483607093 c:\users\mattia\desktop\my projects\email test\database_functs.h
+	<wininet.h>
+	<iostream>
+	<stdexcept>
+	<string>
+	<windows.h>
+	"file_functs.h"
+

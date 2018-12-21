@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526652419 source:c:\users\megatron\desktop\my projects\cootiemaga\main.cpp
+	<iostream>
+	<mattcore.h>
+
+1526648841 source:g:\desktop\olddesktop\my projects\c++\cootiemaga\main.cpp
+	<iostream>
+	<mattcore.h>
+

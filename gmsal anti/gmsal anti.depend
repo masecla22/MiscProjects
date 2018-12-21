@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514578410 source:c:\users\megatron\desktop\my projects\gmsal anti\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

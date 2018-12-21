@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544980404 source:g:\desktop\projects\c++\andreeafactorial\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<mattcore.h>
+	<bits/stdc++.h>
+

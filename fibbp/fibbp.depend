@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514058518 source:c:\users\megatron\desktop\my projects\fibbp\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<cmath>
+	<ctime>
+

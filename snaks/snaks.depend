@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525803550 source:c:\users\megatron\desktop\my projects\snaks\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+
+1537107991 source:h:\users\megatron\desktop\my projects\c++\snaks\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+
+1537104504 source:g:\desktop\olddesktop\my projects\c++\snaks\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+

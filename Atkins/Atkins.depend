@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530823571 source:g:\desktop\projects\c++\atkins\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+

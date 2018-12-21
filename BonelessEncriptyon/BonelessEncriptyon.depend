@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532858370 source:g:\desktop\projects\c++\bonelessencriptyon\main.cpp
+	<iostream>
+	<fstream>
+	"mattcrypt.h"
+	<mattcore.h>
+
+1532857029 g:\desktop\projects\c++\bonelessencriptyon\mattcrypt.h
+	<ctime>
+

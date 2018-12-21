@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533365355 source:g:\desktop\projects\c++\sudokucracker\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<mattcore.h>
+

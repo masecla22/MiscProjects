@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513087807 source:c:\users\megatron\desktop\my projects\pmg\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

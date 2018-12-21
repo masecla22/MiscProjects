@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1528557211 source:c:\users\megatron\desktop\my projects\encrytt2.0\main.cpp
+	<iostream>
+	<mattmark.h>
+	<mattgui.h>
+	<windows.h>
+	"TAW.h"
+
+1528555723 c:\users\megatron\desktop\my projects\encrytt2.0\taw.h
+	<vector>
+	<iostream>
+	<algorithm>
+
+1528553611 source:g:\desktop\olddesktop\my projects\c++\encrytt2.0\main.cpp
+	<iostream>
+	<mattmark.h>
+	<mattgui.h>
+	<windows.h>
+	"TAW.h"
+
+1528552123 g:\desktop\olddesktop\my projects\c++\encrytt2.0\taw.h
+	<vector>
+	<iostream>
+	<algorithm>
+

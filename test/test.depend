@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514490322 source:c:\users\megatron\desktop\my projects\test\main.cpp
+	<iostream>
+	"mattgui.h"
+
+1514490150 c:\users\megatron\desktop\my projects\test\mattgui.h
+	"mattcore.h"
+
+1514490045 c:\users\megatron\desktop\my projects\test\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<Shlobj.h>
+	<stdio.h>
+	<lmcons.h>
+

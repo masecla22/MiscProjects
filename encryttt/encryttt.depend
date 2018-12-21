@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1501973913 source:c:\users\super\desktop\projects\encryttt\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<ctime>
+	"nfunctions.h"
+
+1501969875 c:\users\super\desktop\projects\encryttt\nfunctions.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<windows.h>
+	<ctime>
+

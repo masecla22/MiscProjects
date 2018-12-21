@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537626778 source:g:\desktop\projects\c++\test blyat\main.cpp
+	<iostream>
+	<cmath>
+

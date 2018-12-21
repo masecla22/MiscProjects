@@ -1,0 +1,24 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+int n,a,b,ca,cb,tc,p,k,d;
+int main(){
+
+    cin>>n;
+    tc=1;
+    k=n;
+    while (k>9){
+
+        k=k/10;
+        tc++;
+        };
+    ca=(tc+1)/2;
+    cb=tc/2;
+    k=pow(10,ca);
+    p=pow(10,cb);
+    a=n/k;
+    b=n%p;
+    d=a-b;
+    if(d<0)d=-d;
+    cout<<d<<endl;
+}

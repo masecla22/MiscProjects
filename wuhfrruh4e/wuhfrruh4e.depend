@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534954718 source:g:\desktop\projects\c++\wuhfrruh4e\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<mattgui.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529308113 source:c:\users\megatron\desktop\my projects\c++\hello\main.cpp
+	<iostream>
+	<thread>
+	<windows.h>
+

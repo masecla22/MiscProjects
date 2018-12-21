@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486367155 source:c:\users\mattia\desktop\my projects\12345\main.cpp
+	<iostream>
+	<windows.h>
+
+1545394002 source:g:\desktop\ \projects\c++\12345\main.cpp
+	<iostream>
+	<windows.h>
+	<mattcore.h>
+

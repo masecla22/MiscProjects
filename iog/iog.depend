@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1470751816 source:c:\users\guest\desktop\juh\codeblocks-16.01mingw-nosetup\iog\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<random>
+	<time.h>
+	<limits.h>
+	<math.h>
+
+1471244256 source:c:\users\guest\desktop\iog\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstring>
+	<string.h>
+	<fstream>
+	<random>
+	<time.h>
+	<limits.h>
+	<math.h>
+	<cmath>
+
+1471277232 source:c:\users\pc2\desktop\iog\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstring>
+	<string.h>
+	<fstream>
+	<random>
+	<time.h>
+	<limits.h>
+	<math.h>
+	<cmath>
+
+1496598664 source:c:\users\megatron\desktop\shitty things\projects\c++\iog\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstring>
+	<string.h>
+	<fstream>
+	<time.h>
+	<limits.h>
+	<math.h>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537549933 source:g:\desktop\projects\c++\prestige generator\main.cpp
+	<iostream>
+	<fstream>
+

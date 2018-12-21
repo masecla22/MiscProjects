@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513005058 source:c:\users\megatron\desktop\my projects\gabencrypt\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+

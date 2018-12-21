@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1525618983 source:c:\users\megatron\desktop\my projects\coder shit\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<fstream>
+	<dirent.h>
+	<windows.h>
+	"mattcore.h"
+
+1525343432 c:\users\megatron\desktop\my projects\coder shit\mattcore.h
+	<iostream>
+	<windows.h>
+	<cstring>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<lmcons.h>
+	<ctime>
+	<unistd.h>
+

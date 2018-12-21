@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1538772439 source:g:\desktop\projects\c++\bilutze\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<mattcore.h>
+	<windows.h>
+	"ball.h"
+	"ballMethods.h"
+	"methods.h"
+
+1538668276 g:\desktop\projects\c++\bilutze\ball.h
+	"methods.h"
+	"velocity.h"
+	"point.h"
+
+1538772520 g:\desktop\projects\c++\bilutze\ballmethods.h
+	"globals.h"
+
+1538668198 g:\desktop\projects\c++\bilutze\methods.h
+	<thread>
+	"globals.h"
+
+1538772467 g:\desktop\projects\c++\bilutze\globals.h
+	<vector>
+
+1538583743 g:\desktop\projects\c++\bilutze\velocity.h
+
+1538584727 g:\desktop\projects\c++\bilutze\point.h
+

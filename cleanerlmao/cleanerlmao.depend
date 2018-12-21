@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540573834 source:g:\desktop\projects\c++\cleanerlmao\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

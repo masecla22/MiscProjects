@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525619492 source:c:\users\megatron\desktop\my projects\hiih\main.cpp
+	<iostream>
+	<fstream>
+
+1525615892 source:g:\desktop\olddesktop\my projects\c++\hiih\main.cpp
+	<iostream>
+	<fstream>
+

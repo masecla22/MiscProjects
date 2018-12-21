@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1502576490 source:c:\users\megatron\desktop\retelistca\main.cpp
+	<iostream>
+	"mattNet.h"
+
+1502576377 c:\users\megatron\desktop\retelistca\mattnet.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1537043837 source:g:\desktop\aaaa\main.cpp
+	<iostream>
+	"mattNet.h"
+
+1537043808 g:\desktop\aaaa\mattnet.h
+	<iostream>
+	<fstream>
+	<windows.h>
+

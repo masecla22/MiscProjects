@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539011517 source:g:\desktop\projects\c++\sir8\main.cpp
+	<iostream>
+	<windows.h>
+

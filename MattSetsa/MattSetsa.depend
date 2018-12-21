@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532457160 source:g:\desktop\projects\c++\mattsetsa\main.cpp
+	<iostream>
+	"mattsets.h"
+
+1532457178 g:\desktop\projects\c++\mattsetsa\mattsets.h
+	<fstream>
+	<iostream>
+	"mattcore.h"
+

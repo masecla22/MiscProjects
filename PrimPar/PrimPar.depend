@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538825399 source:g:\desktop\projects\c++\primpar\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<thread>
+

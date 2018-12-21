@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504022271 source:c:\users\megatron\desktop\lolz\main.cpp
+	<iostream>
+	<fstream>
+	"mattgui.h"
+
+1503948297 c:\users\megatron\desktop\lolz\mattgui.h
+	"mattcore.h"
+
+1503948463 c:\users\megatron\desktop\lolz\mattcore.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+

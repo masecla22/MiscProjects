@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1496504238 source:c:\users\megatron\desktop\eses\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<strings.h>
+

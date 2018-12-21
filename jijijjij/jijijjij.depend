@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526498071 source:c:\users\megatron\desktop\my projects\jijijjij\main.cpp
+	<iostream>
+	<mattmark.h>
+	"mattsets.h"
+
+1526496571 c:\users\megatron\desktop\my projects\jijijjij\mattgui.h
+	"mattcore.h"
+
+1526571622 c:\users\megatron\desktop\my projects\jijijjij\mattsets.h
+	"mattcore.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1526568627 source:g:\desktop\olddesktop\my projects\c++\jijijjij\main.cpp
+	<iostream>
+	<mattmark.h>
+	"mattsets.h"
+
+1526568932 g:\desktop\olddesktop\my projects\c++\jijijjij\mattsets.h
+	"mattcore.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+

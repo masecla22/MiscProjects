@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537626975 source:g:\desktop\projects\c++\africabytott\main.cpp
+	<stdio.h>
+	<mattcore.h>
+

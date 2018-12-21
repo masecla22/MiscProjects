@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532037654 source:g:\desktop\projects\c++\worldgen\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

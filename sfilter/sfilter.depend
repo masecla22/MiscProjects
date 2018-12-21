@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1501495723 source:c:\users\super\desktop\projects\sfilter\main.cpp
+	<iostream>
+	<cstring>
+
+1502570539 source:c:\users\megatron\desktop\sfilter\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514563434 source:c:\users\megatron\desktop\my projects\encrypt\main.cpp
+	"nfunctions.h"
+	<mattgui.h>
+
+1514562378 c:\users\megatron\desktop\my projects\encrypt\nfunctions.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<windows.h>
+	<ctime>
+	<algorithm>
+

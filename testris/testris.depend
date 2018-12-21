@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1515592265 source:c:\users\megatron\desktop\my projects\testris\main.cpp
+	"draws.h"
+
+1515592330 c:\users\megatron\desktop\my projects\testris\draws.h
+	<iostream>
+	<graphics.h>
+	<winuser.h>
+	<conio.h>
+

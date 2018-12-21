@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493587050 source:c:\users\megatron\desktop\lollz\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+
+1496502995 source:g:\desktop\ \projects\c++\(1)\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+

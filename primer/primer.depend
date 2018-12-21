@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513930703 source:c:\users\megatron\desktop\my projects\primer\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<vector>
+	<mattgui.h>
+

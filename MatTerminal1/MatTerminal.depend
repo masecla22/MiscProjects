@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1528927719 source:c:\users\megatron\desktop\my projects\c++\matterminal\main.cpp
+	<iostream>
+	<sstream>
+	<utility>
+	<vector>
+	<string>
+	<algorithm>
+	"TAW.h"
+	"globals.h"
+
+1528927562 c:\users\megatron\desktop\my projects\c++\matterminal\taw.h
+	<iostream>
+	<mattcore.h>
+	<sstream>
+	<utility>
+	<vector>
+	<string>
+	"globals.h"
+
+1528927513 c:\users\megatron\desktop\my projects\c++\matterminal\globals.h
+	<iostream>
+	<mattcore.h>
+	<sstream>
+	<utility>
+	<vector>
+

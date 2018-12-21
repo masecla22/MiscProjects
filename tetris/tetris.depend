@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512653941 source:c:\users\megatron\desktop\my projects\tetris\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+

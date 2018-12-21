@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486924996 source:c:\users\mattia\desktop\my projects\msqr\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+
