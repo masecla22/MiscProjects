@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1552748077 source:c:\users\metrobv2\desktop\kepps\fap3d\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+
+1552748121 c:\users\metrobv2\desktop\kepps\fap3d\setup.h
+	<graphics.h>
+	<conio.h>
+
+1552748212 c:\users\metrobv2\desktop\kepps\fap3d\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1552748138 c:\users\metrobv2\desktop\kepps\fap3d\shapes.h
+	<cmath>
+	"globals.h"
+
+1552748121 c:\users\metrobv2\desktop\kepps\fap3d\globals.h
+
+1552748121 c:\users\metrobv2\desktop\kepps\fap3d\colors.h
+	"globals.h"
+
+1552040253 source:c:\users\elev\desktop\fap3d\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+
+1552035672 c:\users\elev\desktop\fap3d\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1552035672 c:\users\elev\desktop\fap3d\setup.h
+	<graphics.h>
+	<conio.h>
+
+1552040273 c:\users\elev\desktop\fap3d\shapes.h
+	<cmath>
+	"globals.h"
+
+1552035672 c:\users\elev\desktop\fap3d\globals.h
+
+1552035672 c:\users\elev\desktop\fap3d\colors.h
+	"globals.h"
+
+1552675419 source:c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+
+1552675073 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1552714802 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\setup.h
+	<graphics.h>
+	<conio.h>
+
+1552673340 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\shapes.h
+	<cmath>
+	"globals.h"
+
+1552671690 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\globals.h
+
+1552671690 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\colors.h
+	"globals.h"
+
+1552675393 c:\users\elisa\appdata\local\mattia\projj\c++\fap3d\internalcode.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1553026341 source:g:\desktop\ \projects\c++\fap3d\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+	<vector>
+
+1553001505 g:\desktop\ \projects\c++\fap3d\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1553020291 g:\desktop\ \projects\c++\fap3d\setup.h
+	<graphics.h>
+	<conio.h>
+	"shapes.h"
+
+1553024327 g:\desktop\ \projects\c++\fap3d\shapes.h
+	<cmath>
+	<vector>
+	"globals.h"
+
+1553001505 g:\desktop\ \projects\c++\fap3d\globals.h
+
+1553001505 g:\desktop\ \projects\c++\fap3d\colors.h
+	"globals.h"
+
+1553084884 source:c:\users\elev\appdata\local\system32\fap3d\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+	<vector>
+	<ctime>
+	<random>
+
+1553062237 c:\users\elev\appdata\local\system32\fap3d\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1553069745 c:\users\elev\appdata\local\system32\fap3d\setup.h
+	<graphics.h>
+	<conio.h>
+	"shapes.h"
+
+1553075579 c:\users\elev\appdata\local\system32\fap3d\shapes.h
+	<cmath>
+	<vector>
+	"globals.h"
+
+1553069003 c:\users\elev\appdata\local\system32\fap3d\globals.h
+
+1553062237 c:\users\elev\appdata\local\system32\fap3d\colors.h
+	"globals.h"
+
+1571573340 source:c:\users\michele\desktop\planetarium\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+	<vector>
+	<ctime>
+	<random>
+	<cstring>
+	<graphics.h>
+	<sstream>
+
+1571559559 c:\users\michele\desktop\planetarium\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1571559559 c:\users\michele\desktop\planetarium\setup.h
+	<graphics.h>
+	<conio.h>
+	"shapes.h"
+
+1571559559 c:\users\michele\desktop\planetarium\shapes.h
+	<cmath>
+	<vector>
+	"globals.h"
+
+1571559559 c:\users\michele\desktop\planetarium\globals.h
+
+1571559559 c:\users\michele\desktop\planetarium\colors.h
+	"globals.h"
+
+1577358898 source:g:\desktop\planetarium\main.cpp
+	<iostream>
+	"fap3d.h"
+	<windows.h>
+	<vector>
+	<ctime>
+	<random>
+	<cstring>
+	<graphics.h>
+	<sstream>
+
+1571559560 g:\desktop\planetarium\fap3d.h
+	"setup.h"
+	"shapes.h"
+	"globals.h"
+	"colors.h"
+
+1571559560 g:\desktop\planetarium\setup.h
+	<graphics.h>
+	<conio.h>
+	"shapes.h"
+
+1571559560 g:\desktop\planetarium\shapes.h
+	<cmath>
+	<vector>
+	"globals.h"
+
+1571559560 g:\desktop\planetarium\globals.h
+
+1571559560 g:\desktop\planetarium\colors.h
+	"globals.h"
+

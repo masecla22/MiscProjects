@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580325256 source:g:\desktop\ \projects\c++\quicksortmatt\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575324023 source:g:\desktop\ \projects\c++\esketit\main.cpp
+	<iostream>
+	<graphics.h>
+	<string>
+	<conio.h>
+

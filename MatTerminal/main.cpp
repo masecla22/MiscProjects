@@ -158,7 +158,9 @@ int main(){
     cout<<"MatTerminal "<<version<<endl;
     while(true){
         cout<<path<<"> ";
-        string command = customCin();
+        //string command = customCin();
+        string command;
+        getline(cin,command);
         int i = interpret(command,caller());
         if(i==false){
             cout<<"Fug you want from me?"<<endl;

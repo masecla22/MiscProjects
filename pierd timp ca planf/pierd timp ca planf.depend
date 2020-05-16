@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578499592 source:g:\desktop\ \projects\c++\pierd timp ca planf\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+	<conio.h>
+	<random>
+	<algorithm>
+	<cmath>
+

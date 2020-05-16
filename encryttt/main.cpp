@@ -43,7 +43,7 @@ int main()
         cout<<"Type a key to use in encryption (you can type auto to generate one automatically): ";
         cin>>key;
         int longness;
-        if(stricmp(key,"auto")==0)
+        if(strcmp(key,"auto")==0)
         {
             cout<<"How long should the key be (the bigger it is, the longer it takes to generate, but its harder to decrypt): ";
             cin>>longness;

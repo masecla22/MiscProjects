@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584124122 source:g:\desktop\ \projects\c++\cmmdc\main.cpp
+	<iostream>
+	<mattcore.h>
+	<sstream>
+	<fstream>
+	<mattgui.h>
+

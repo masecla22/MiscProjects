@@ -14,3 +14,18 @@
 	<windows.h>
 	<ctime>
 
+1548006052 source:g:\desktop\ \projects\c++\encryttt\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<ctime>
+	"nfunctions.h"
+
+1548006043 g:\desktop\ \projects\c++\encryttt\nfunctions.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<cmath>
+	<windows.h>
+	<ctime>
+

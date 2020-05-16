@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+
+long long n;
+long long s;
+cin>>n;
+    long long par = n/2;
+    long long impar=0;
+    if(n%2 == 0)
+    {
+
+        impar = (n/2);
+    }
+    else
+    {
+
+        impar = n/2+1;
+    }
+    long long zece = n/10;
+    long long cinci = (n/5)-zece;
+    s = (((impar - cinci)*1)%10 + ((par-zece)*6)%10+ (cinci*5)%10)%10;
+    cout<<s;
+}

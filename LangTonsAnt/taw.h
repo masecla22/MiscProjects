@@ -8,9 +8,9 @@
 #define DOWN 2
 #define LEFT 3
 
-int sizes=10;
+int sizes=1000;
 float pixelSize = 1000/sizes;
-std::string behaviour = "RRRRRRRRL";
+std::string behaviour = "RLRLLR";
 int howManyColors = behaviour.size();
 class board
 {

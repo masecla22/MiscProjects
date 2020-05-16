@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578517248 source:g:\desktop\ \projects\c++\surccesiune\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+

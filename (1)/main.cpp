@@ -3,16 +3,19 @@
 #include <windows.h>
 
 using namespace std;
-int divs(int a)
+int divs(int n)
 {
-    int how=0;
-    for(int j=2; j<=a; j++)
-    {
-        if(a%j==0)
-            how++;
-        cout<<"Current number: "<<a<<" Dividers found: "<<how<<" Current operation: "<<a<<"/"<<j<<"\r";
+    int cnt = 0;
+    for (int i = 1; i*i <= n; i++) {
+        if (n % i == 0) {
+            if (n / i == i)
+                cnt++;
+
+            else
+                cnt = cnt + 2;
         }
-    return how;
+    }
+    return cnt;
 }
 int main()
 {

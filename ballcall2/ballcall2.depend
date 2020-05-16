@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583940555 source:g:\desktop\ \projects\c++\ballcall2\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+	<cmath>
+	<random>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<limits>
+

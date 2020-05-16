@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1557781090 source:g:\desktop\ \projects\c++\memorieblanaos\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<conio.h>
+	<sstream>
+	<chrono>
+

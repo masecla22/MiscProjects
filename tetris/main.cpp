@@ -3,6 +3,11 @@
 #include <graphics.h>
 
 using namespace std;
+
+enum CARDINAL {
+    NORTH, SOUTH, EAST, WEST
+};
+
 int drawcube(int x,int y,int color)
 {
     //setcolor(1);
@@ -13,9 +18,6 @@ int drawcube(int x,int y,int color)
 }
 int main()
 {
-    initwindow(900,600,"Tetris",100,100);
-    drawcube(1,1,WHITE);
-    getch();
-    closegraph();
+    cout<<CARDINAL::NORTH;
     return 0;
 }
